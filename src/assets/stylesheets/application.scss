@@ -84,6 +84,24 @@ $drawer-width: 300px;
 }
 
 
+
+
+
+@media only screen and (min-width: 960px){
+    .drawer .scrollable .wrapper {
+    //    height: 80%;
+        min-height: 80%;
+        max-height: 80%;
+    }    
+}
+
+@media only screen and (min-width: 0px){
+    .article .wrapper {
+        padding-top: 65px;
+    }
+}
+
+
 @media only screen and (max-width: 959px){
     .drawer {
         top: 40px;
@@ -92,6 +110,8 @@ $drawer-width: 300px;
     .drawer .wrapper {
         position: relative;
         float: right;
+//        height: 93%;
+        max-height: 93%;
     }
 }
 @media only screen and (min-width: 720px) {
@@ -131,9 +151,6 @@ $drawer-width: 300px;
 
 
 
-.collapse {
-    cursor: initial;
-}
 
 .collapse.section ul {
     display: none;
@@ -320,7 +337,7 @@ $drawer-width: 300px;
 }
 
 .drawer .scrollable .wrapper {
-    max-height: 100%;
+    max-height: 80%;
 }
 .drawer .wrapper {
     position: fixed;
@@ -407,6 +424,7 @@ ul {
 
 .sechead-home {
     color: gray;
+    padding-bottom: 15px;    
 }
 .sechead-home:hover {
     color: red;
@@ -465,7 +483,7 @@ button .icon.toggle-button {
 //}
 
 .sechead  {
-    padding-top: 9px;
+    padding-top: 5px;
     line-height: 1.7rem;
 /*    cursor: pointer;*/
 }
@@ -500,9 +518,31 @@ button .icon.toggle-button {
     
 }
 
+
 .pagination a {
     display: initial;
     height: auto;
     color: white;
 }
 
+.arcadia-status {
+    width: 80%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.copyright {
+    text-align: center;
+}
+
+@media only screen and (min-width: 0px){
+    
+.copyright {
+    margin-bottom: 15px;
+}    
+}
+
+
+//.collapse {
+//    cursor: initial;
+//}

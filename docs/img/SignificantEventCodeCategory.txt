@@ -1,0 +1,459 @@
+code_set	code_value	code_category	description
+Place Of Service	61	Significant Event	Comprehensive Inpatient Rehabilitation Facility
+Place Of Service	56	Significant Event	Psychiatric Residential Treatment Center
+Place Of Service	42	Significant Event	Ambulance - Air or Water
+Place Of Service	41	Significant Event	Ambulance - Land
+Place Of Service	31	Significant Event	Skilled Nursing Facility
+Place Of Service	24	Significant Event	Ambulatory Surgical Center
+Place Of Service	23	Significant Event	Emergency Room - Hospital
+Place Of Service	21	Significant Event	Inpatient Hospital
+Maintenance/Test	Inpatient	Significant Event	Inpatient Visit
+Maintenance/Test	Emergency	Significant Event	Emergency Visit
+CPT	99318	Significant Event	Annual nursing fac assessmnt
+CPT	99316	Significant Event	Nursing fac discharge day
+CPT	99315	Significant Event	Nursing fac discharge day
+CPT	99310	Significant Event	Nursing fac care subseq
+CPT	99309	Significant Event	Nursing fac care subseq
+CPT	99308	Significant Event	Nursing fac care subseq
+CPT	99307	Significant Event	Nursing fac care subseq
+CPT	99306	Significant Event	Nursing facility care init
+CPT	99305	Significant Event	Nursing facility care init
+CPT	99304	Significant Event	Nursing facility care init
+CPT	99288	Significant Event	Direct advanced life support
+CPT	99285	Significant Event	Emergency dept visit
+CPT	99284	Significant Event	Emergency dept visit
+CPT	99283	Significant Event	Emergency dept visit
+CPT	99282	Significant Event	Emergency dept visit
+CPT	99281	Significant Event	Emergency dept visit
+CPT	99239	Significant Event	Hospital discharge day
+CPT	99238	Significant Event	Hospital discharge day
+CPT	99233	Significant Event	Subsequent hospital care
+CPT	99232	Significant Event	Subsequent hospital care
+CPT	99231	Significant Event	Subsequent hospital care
+CPT	99226	Significant Event	Subsequent observation care
+CPT	99225	Significant Event	Subsequent observation care
+CPT	99224	Significant Event	Subsequent observation care
+CPT	99220	Significant Event	Initial observation care
+CPT	99219	Significant Event	Initial observation care
+CPT	99218	Significant Event	Initial observation care
+CPT	99217	Significant Event	Observation care discharge
+CPT	19499	Significant Event	Breast surgery procedure
+CPT	19396	Significant Event	Design custom breast implant
+CPT	19380	Significant Event	Revise breast reconstruction
+CPT	19371	Significant Event	Removal of breast capsule
+CPT	19370	Significant Event	Surgery of breast capsule
+CPT	19369	Significant Event	Breast reconstruction
+CPT	19368	Significant Event	Breast reconstruction
+CPT	19367	Significant Event	Breast reconstruction
+CPT	19366	Significant Event	Breast reconstruction
+CPT	19364	Significant Event	Breast reconstruction
+CPT	19361	Significant Event	Breast reconstr w/lat flap
+CPT	19357	Significant Event	Breast reconstruction
+CPT	19355	Significant Event	Correct inverted nipple(s)
+CPT	19350	Significant Event	Breast reconstruction
+CPT	19342	Significant Event	Delayed breast prosthesis
+CPT	19340	Significant Event	Immediate breast prosthesis
+CPT	19330	Significant Event	Removal of implant material
+CPT	19328	Significant Event	Removal of breast implant
+CPT	19325	Significant Event	Enlarge breast with implant
+CPT	19324	Significant Event	Enlarge breast
+CPT	19318	Significant Event	Reduction of large breast
+CPT	19316	Significant Event	Suspension of breast
+CPT	19307	Significant Event	Mast mod rad
+CPT	19306	Significant Event	Mast rad urban type
+CPT	19305	Significant Event	Mast radical
+CPT	19304	Significant Event	Mast subq
+CPT	19303	Significant Event	Mast simple complete
+CPT	19302	Significant Event	P-mastectomy w/ln removal
+CPT	19301	Significant Event	Partical mastectomy
+CPT	19300	Significant Event	Removal of breast tissue
+CPT	19298	Significant Event	Place breast rad tube/caths
+CPT	19297	Significant Event	Place breast cath for rad
+CPT	19296	Significant Event	Place po breast cath for rad
+CPT	19295	Significant Event	Place breast clip percut
+CPT	19291	Significant Event	Place needle wire breast
+CPT	19290	Significant Event	Place needle wire breast
+CPT	19288	Significant Event	Perq dev breast add mr guide
+CPT	19287	Significant Event	Perq dev breast 1st mr guide
+CPT	19286	Significant Event	Perq dev breast add us imag
+CPT	19285	Significant Event	Perq dev breast 1st us imag
+CPT	19284	Significant Event	Perq dev breast add strtctc
+CPT	19283	Significant Event	Perq dev breast 1st strtctc
+CPT	19282	Significant Event	Perq device breast ea imag
+CPT	19281	Significant Event	Perq device breast 1st imag
+CPT	19272	Significant Event	Extensive chest wall surgery
+CPT	19271	Significant Event	Revision of chest wall
+CPT	19260	Significant Event	Removal of chest wall lesion
+CPT	19240	Significant Event	REMOVAL OF BREAST
+CPT	19220	Significant Event	REMOVAL OF BREAST
+CPT	19200	Significant Event	REMOVAL OF BREAST
+CPT	19180	Significant Event	REMOVAL OF BREAST
+CPT	19126	Significant Event	Excision addl breast lesion
+CPT	19125	Significant Event	Excision breast lesion
+CPT	19120	Significant Event	Removal of breast lesion
+CPT	19112	Significant Event	Excise breast duct fistula
+CPT	19110	Significant Event	Nipple exploration
+CPT	19105	Significant Event	Cryosurg ablate fa each
+CPT	19103	Significant Event	Bx breast percut w/device
+CPT	19102	Significant Event	Bx breast percut w/image
+CPT	19101	Significant Event	Biopsy of breast open
+CPT	19100	Significant Event	Bx breast percut w/o image
+CPT	19086	Significant Event	Bx breast add lesion mr imag
+CPT	19085	Significant Event	Bx breast 1st lesion mr imag
+CPT	19084	Significant Event	Bx breast add lesion us imag
+CPT	19083	Significant Event	Bx breast 1st lesion us imag
+CPT	19082	Significant Event	Bx breast add lesion strtctc
+CPT	19081	Significant Event	Bx breast 1st lesion strtctc
+CPT	19030	Significant Event	Injection for breast x-ray
+CPT	19020	Significant Event	Incision of breast lesion
+CPT	19001	Significant Event	Drain breast lesion add-on
+CPT	19000	Significant Event	Drainage of breast lesion
+CPT	17999	Significant Event	Skin tissue procedure
+CPT	17380	Significant Event	Hair removal by electrolysis
+CPT	17360	Significant Event	Skin peel therapy
+CPT	17340	Significant Event	Cryotherapy of skin
+CPT	17315	Significant Event	Mohs surg addl block
+CPT	17314	Significant Event	Mohs addl stage t/a/l
+CPT	17313	Significant Event	Mohs 1 stage t/a/l
+CPT	17312	Significant Event	Mohs addl stage
+CPT	17311	Significant Event	Mohs 1 stage h/n/hf/g
+CPT	17286	Significant Event	Destruction of skin lesions
+CPT	17284	Significant Event	Destruction of skin lesions
+CPT	17283	Significant Event	Destruction of skin lesions
+CPT	17282	Significant Event	Destruction of skin lesions
+CPT	17281	Significant Event	Destruction of skin lesions
+CPT	17280	Significant Event	Destruction of skin lesions
+CPT	17276	Significant Event	Destruction of skin lesions
+CPT	17274	Significant Event	Destruction of skin lesions
+CPT	17273	Significant Event	Destruction of skin lesions
+CPT	17272	Significant Event	Destruction of skin lesions
+CPT	17271	Significant Event	Destruction of skin lesions
+CPT	17270	Significant Event	Destruction of skin lesions
+CPT	17266	Significant Event	Destruction of skin lesions
+CPT	17264	Significant Event	Destruction of skin lesions
+CPT	17263	Significant Event	Destruction of skin lesions
+CPT	17262	Significant Event	Destruction of skin lesions
+CPT	17261	Significant Event	Destruction of skin lesions
+CPT	17260	Significant Event	Destruction of skin lesions
+CPT	17250	Significant Event	Chemical cautery tissue
+CPT	17111	Significant Event	Destruct lesion 15 or more
+CPT	17110	Significant Event	Destruct b9 lesion 1-14
+CPT	17108	Significant Event	Destruction of skin lesions
+CPT	17107	Significant Event	Destruction of skin lesions
+CPT	17106	Significant Event	Destruction of skin lesions
+CPT	17004	Significant Event	Destroy premal lesions 15/>
+CPT	17003	Significant Event	Destruct premalg les 2-14
+CPT	17000	Significant Event	Destruct premalg lesion
+CPT	16036	Significant Event	Escharotomy addl incision
+CPT	16035	Significant Event	Incision of burn scab initi
+CPT	16030	Significant Event	Dress/debrid p-thick burn l
+CPT	16025	Significant Event	Dress/debrid p-thick burn m
+CPT	16020	Significant Event	Dress/debrid p-thick burn s
+CPT	16000	Significant Event	Initial treatment of burn(s)
+CPT	15999	Significant Event	Removal of pressure sore
+CPT	15958	Significant Event	Remove thigh pressure sore
+CPT	15956	Significant Event	Remove thigh pressure sore
+CPT	15953	Significant Event	Remove thigh pressure sore
+CPT	15952	Significant Event	Remove thigh pressure sore
+CPT	15951	Significant Event	Remove thigh pressure sore
+CPT	15950	Significant Event	Remove thigh pressure sore
+CPT	15946	Significant Event	Remove hip pressure sore
+CPT	15945	Significant Event	Remove hip pressure sore
+CPT	15944	Significant Event	Remove hip pressure sore
+CPT	15941	Significant Event	Remove hip pressure sore
+CPT	15940	Significant Event	Remove hip pressure sore
+CPT	15937	Significant Event	Remove sacrum pressure sore
+CPT	15936	Significant Event	Remove sacrum pressure sore
+CPT	15935	Significant Event	Remove sacrum pressure sore
+CPT	15934	Significant Event	Remove sacrum pressure sore
+CPT	15933	Significant Event	Remove sacrum pressure sore
+CPT	15931	Significant Event	Remove sacrum pressure sore
+CPT	15922	Significant Event	Removal of tail bone ulcer
+CPT	15920	Significant Event	Removal of tail bone ulcer
+CPT	15879	Significant Event	Suction lipectomy lwr extrem
+CPT	15878	Significant Event	Suction lipectomy upr extrem
+CPT	15877	Significant Event	Suction lipectomy trunk
+CPT	15876	Significant Event	Suction lipectomy head&neck
+CPT	15860	Significant Event	Test for blood flow in graft
+CPT	15852	Significant Event	Dressing change not for burn
+CPT	15851	Significant Event	Remove sutures diff surgeon
+CPT	15850	Significant Event	Remove sutures same surgeon
+CPT	15847	Significant Event	Exc skin abd add-on
+CPT	15845	Significant Event	Skin and muscle repair face
+CPT	15842	Significant Event	Nerve palsy microsurg graft
+CPT	15841	Significant Event	Nerve palsy muscle graft
+CPT	15840	Significant Event	Nerve palsy fascial graft
+CPT	15839	Significant Event	Excise excess skin & tissue
+CPT	15838	Significant Event	Excise excess skin fat pad
+CPT	15837	Significant Event	Excise excess skin arm/hand
+CPT	15836	Significant Event	Excise excessive skin arm
+CPT	15835	Significant Event	Excise excessive skin buttck
+CPT	15834	Significant Event	Excise excessive skin hip
+CPT	15833	Significant Event	Excise excessive skin leg
+CPT	15832	Significant Event	Excise excessive skin thigh
+CPT	15830	Significant Event	Exc skin abd
+CPT	15829	Significant Event	Removal of skin wrinkles
+CPT	15828	Significant Event	Removal of face wrinkles
+CPT	15826	Significant Event	Removal of brow wrinkles
+CPT	15825	Significant Event	Removal of neck wrinkles
+CPT	15824	Significant Event	Removal of forehead wrinkles
+CPT	15823	Significant Event	Revision of upper eyelid
+CPT	15822	Significant Event	Revision of upper eyelid
+CPT	15821	Significant Event	Revision of lower eyelid
+CPT	15820	Significant Event	Revision of lower eyelid
+CPT	15819	Significant Event	Plastic surgery neck
+CPT	15793	Significant Event	Chemical peel nonfacial
+CPT	15792	Significant Event	Chemical peel nonfacial
+CPT	15789	Significant Event	Chemical peel face dermal
+CPT	15788	Significant Event	Chemical peel face epiderm
+CPT	15787	Significant Event	Abrasion lesions add-on
+CPT	15786	Significant Event	Abrasion lesion single
+CPT	15783	Significant Event	Dermabrasion suprfl any site
+CPT	15782	Significant Event	Dermabrasion other than face
+CPT	15781	Significant Event	Dermabrasion segmental face
+CPT	15780	Significant Event	Dermabrasion total face
+CPT	15777	Significant Event	Acellular derm matrix implt
+CPT	15776	Significant Event	Hair trnspl >15 punch grafts
+CPT	15775	Significant Event	Hair trnspl 1-15 punch grfts
+CPT	15770	Significant Event	Derma-fat-fascia graft
+CPT	15760	Significant Event	Composite skin graft
+CPT	15758	Significant Event	Free fascial flap microvasc
+CPT	15757	Significant Event	Free skin flap microvasc
+CPT	15756	Significant Event	Free myo/skin flap microvasc
+CPT	15750	Significant Event	Neurovascular pedicle flap
+CPT	15740	Significant Event	Island pedicle flap graft
+CPT	15738	Significant Event	Muscle-skin graft leg
+CPT	15736	Significant Event	Muscle-skin graft arm
+CPT	15734	Significant Event	Muscle-skin graft trunk
+CPT	15732	Significant Event	Muscle-skin graft head/neck
+CPT	15731	Significant Event	Forehead flap w/vasc pedicle
+CPT	15650	Significant Event	Transfer skin pedicle flap
+CPT	15630	Significant Event	Delay flap eye/nos/ear/lip
+CPT	15620	Significant Event	Delay flap f/c/c/n/ax/g/h/f
+CPT	15610	Significant Event	Delay flap arms/legs
+CPT	15600	Significant Event	Delay flap trunk
+CPT	15576	Significant Event	Pedicle e/n/e/l/ntroral
+CPT	15574	Significant Event	Pedcle fh/ch/ch/m/n/ax/g/h/f
+CPT	15572	Significant Event	Skin pedicle flap arms/legs
+CPT	15570	Significant Event	Skin pedicle flap trunk
+CPT	15278	Significant Event	Skn sub grft f/n/hf/g ch add
+CPT	15277	Significant Event	Skn sub grft f/n/hf/g child
+CPT	15276	Significant Event	Skin sub graft f/n/hf/g addl
+CPT	15275	Significant Event	Skin sub graft face/nk/hf/g
+CPT	15274	Significant Event	Skn sub grft t/a/l child add
+CPT	15273	Significant Event	Skin sub grft t/arm/lg child
+CPT	15272	Significant Event	Skin sub graft t/a/l add-on
+CPT	15271	Significant Event	Skin sub graft trnk/arm/leg
+CPT	15261	Significant Event	Skin full graft add-on
+CPT	15260	Significant Event	Skin full graft een & lips
+CPT	15241	Significant Event	Skin full graft add-on
+CPT	15240	Significant Event	Skin full grft face/genit/hf
+CPT	15221	Significant Event	Skin full graft add-on
+CPT	15220	Significant Event	Skin full graft sclp/arm/leg
+CPT	15201	Significant Event	Skin full graft trunk add-on
+CPT	15200	Significant Event	Skin full graft trunk
+CPT	15157	Significant Event	Cult epiderm grft f/n/hfg +%
+CPT	15156	Significant Event	Cult skin grft f/n/hfg add
+CPT	15155	Significant Event	Cult skin graft f/n/hf/g
+CPT	15152	Significant Event	Cult skin graft t/a/l +%
+CPT	15151	Significant Event	Cult skin grft t/a/l addl
+CPT	15150	Significant Event	Cult skin grft t/arm/leg
+CPT	15136	Significant Event	Derm autograft f/n/hf/g add
+CPT	15135	Significant Event	Derm autograft face/nck/hf/g
+CPT	15131	Significant Event	Derm autograft t/a/l add-on
+CPT	15130	Significant Event	Derm autograft trnk/arm/leg
+CPT	15121	Significant Event	Skn splt a-grft f/n/hf/g add
+CPT	15120	Significant Event	Skn splt a-grft fac/nck/hf/g
+CPT	15116	Significant Event	Epidrm a-grft f/n/hf/g addl
+CPT	15115	Significant Event	Epidrm a-grft face/nck/hf/g
+CPT	15111	Significant Event	Epidrm autogrft t/a/l add-on
+CPT	15110	Significant Event	Epidrm autogrft trnk/arm/leg
+CPT	15101	Significant Event	Skin splt grft t/a/l add-on
+CPT	15100	Significant Event	Skin splt grft trnk/arm/leg
+CPT	15050	Significant Event	Skin pinch graft
+CPT	15040	Significant Event	Harvest cultured skin graft
+CPT	15005	Significant Event	Wnd prep f/n/hf/g addl cm
+CPT	15004	Significant Event	Wound prep f/n/hf/g
+CPT	15003	Significant Event	Wound prep addl 100 cm
+CPT	15002	Significant Event	Wound prep trk/arm/leg
+CPT	14350	Significant Event	Filleted finger/toe flap
+CPT	14302	Significant Event	Tis trnfr addl 30 sq cm/<
+CPT	14301	Significant Event	Tis trnfr any 30.1-60 sq cm
+CPT	14061	Significant Event	Tis trnfr e/n/e/l10.1-30sqcm
+CPT	14060	Significant Event	Tis trnfr e/n/e/l 10 sq cm/<
+CPT	14041	Significant Event	Tis trnfr f/c/c/m/n/a/g/h/f
+CPT	14040	Significant Event	Tis trnfr f/c/c/m/n/a/g/h/f
+CPT	14021	Significant Event	Tis trnfr s/a/l 10.1-30 sqcm
+CPT	14020	Significant Event	Tis trnfr s/a/l 10 sq cm/<
+CPT	14001	Significant Event	Tis trnfr trunk 10.1-30sqcm
+CPT	14000	Significant Event	Tis trnfr trunk 10 sq cm/<
+CPT	13160	Significant Event	Late closure of wound
+CPT	13153	Significant Event	Cmplx rpr e/n/e/l addl 5cm/<
+CPT	13152	Significant Event	Cmplx rpr e/n/e/l 2.6-7.5 cm
+CPT	13151	Significant Event	Cmplx rpr e/n/e/l 1.1-2.5 cm
+CPT	13150	Significant Event	Cmplx rpr e/n/e/l 1.0 cm/<
+CPT	13133	Significant Event	Cmplx rpr f/c/c/m/n/ax/g/h/f
+CPT	13132	Significant Event	Cmplx rpr f/c/c/m/n/ax/g/h/f
+CPT	13131	Significant Event	Cmplx rpr f/c/c/m/n/ax/g/h/f
+CPT	13122	Significant Event	Cmplx rpr s/a/l addl 5 cm/>
+CPT	13121	Significant Event	Cmplx rpr s/a/l 2.6-7.5 cm
+CPT	13120	Significant Event	Cmplx rpr s/a/l 1.1-2.5 cm
+CPT	13102	Significant Event	Cmplx rpr trunk addl 5cm/<
+CPT	13101	Significant Event	Cmplx rpr trunk 2.6-7.5 cm
+CPT	13100	Significant Event	Cmplx rpr trunk 1.1-2.5 cm
+CPT	12057	Significant Event	Intmd rpr face/mm >30.0 cm
+CPT	12056	Significant Event	Intmd rpr face/mm 20.1-30.0
+CPT	12055	Significant Event	Intmd rpr face/mm 12.6-20 cm
+CPT	12054	Significant Event	Intmd rpr face/mm 7.6-12.5cm
+CPT	12053	Significant Event	Intmd rpr face/mm 5.1-7.5 cm
+CPT	12052	Significant Event	Intmd rpr face/mm 2.6-5.0 cm
+CPT	12051	Significant Event	Intmd rpr face/mm 2.5 cm/<
+CPT	12047	Significant Event	Intmd rpr n-hf/genit >30.0cm
+CPT	12046	Significant Event	Intmd rpr n-hf/genit20.1-30
+CPT	12045	Significant Event	Intmd rpr n-hf/genit12.6-20
+CPT	12044	Significant Event	Intmd rpr n-hf/genit7.6-12.5
+CPT	12042	Significant Event	Intmd rpr n-hf/genit2.6-7.5
+CPT	12041	Significant Event	Intmd rpr n-hf/genit 2.5cm/<
+CPT	12037	Significant Event	Intmd rpr s/tr/ext >30.0 cm
+CPT	12036	Significant Event	Intmd rpr s/a/t/ext 20.1-30
+CPT	12035	Significant Event	Intmd rpr s/a/t/ext 12.6-20
+CPT	12034	Significant Event	Intmd rpr s/tr/ext 7.6-12.5
+CPT	12032	Significant Event	Intmd rpr s/a/t/ext 2.6-7.5
+CPT	12031	Significant Event	Intmd rpr s/a/t/ext 2.5 cm/<
+CPT	12021	Significant Event	Closure of split wound
+CPT	12020	Significant Event	Closure of split wound
+CPT	12018	Significant Event	Rpr f/e/e/n/l/m >30.0 cm
+CPT	12017	Significant Event	Rpr fe/e/en/l/m 20.1-30.0 cm
+CPT	12016	Significant Event	Rpr fe/e/en/l/m 12.6-20.0 cm
+CPT	12015	Significant Event	Rpr f/e/e/n/l/m 7.6-12.5 cm
+CPT	12014	Significant Event	Rpr f/e/e/n/l/m 5.1-7.5 cm
+CPT	12013	Significant Event	Rpr f/e/e/n/l/m 2.6-5.0 cm
+CPT	12011	Significant Event	Rpr f/e/e/n/l/m 2.5 cm/<
+CPT	12007	Significant Event	Rpr s/n/ax/gen/trnk >30.0 cm
+CPT	12006	Significant Event	Rpr s/n/a/gen/trk20.1-30.0cm
+CPT	12005	Significant Event	Rpr s/n/a/gen/trk12.6-20.0cm
+CPT	12004	Significant Event	Rpr s/n/ax/gen/trk7.6-12.5cm
+CPT	12002	Significant Event	Rpr s/n/ax/gen/trnk2.6-7.5cm
+CPT	12001	Significant Event	Rpr s/n/ax/gen/trnk 2.5cm/<
+CPT	11983	Significant Event	Remove/insert drug implant
+CPT	11982	Significant Event	Remove drug implant device
+CPT	11981	Significant Event	Insert drug implant device
+CPT	11980	Significant Event	Implant hormone pellet(s)
+CPT	11977	Significant Event	REMOVAL/REINSERT CONTRA CAP
+CPT	11976	Significant Event	Remove contraceptive capsule
+CPT	11975	Significant Event	INSERT CONTRACEPTIVE CAP
+CPT	11971	Significant Event	Remove tissue expander(s)
+CPT	11970	Significant Event	Replace tissue expander
+CPT	11960	Significant Event	Insert tissue expander(s)
+CPT	11954	Significant Event	Tx contour defects >10.0 cc
+CPT	11952	Significant Event	Tx contour defects 5.1-10cc
+CPT	11951	Significant Event	Tx contour defects 1.1-5.0cc
+CPT	11950	Significant Event	Tx contour defects 1 cc/<
+CPT	11922	Significant Event	Correct skin color ea 20.0cm
+CPT	11921	Significant Event	Corect skin color 6.1-20.0cm
+CPT	11920	Significant Event	Correct skin color 6.0 cm/<
+CPT	11901	Significant Event	Inject skin lesions >7
+CPT	11900	Significant Event	Inject skin lesions </w 7
+CPT	11772	Significant Event	Remove pilonidal cyst compl
+CPT	11771	Significant Event	Remove pilonidal cyst exten
+CPT	11770	Significant Event	Remove pilonidal cyst simple
+CPT	11765	Significant Event	Excision of nail fold toe
+CPT	11762	Significant Event	Reconstruction of nail bed
+CPT	11760	Significant Event	Repair of nail bed
+CPT	11755	Significant Event	Biopsy nail unit
+CPT	11752	Significant Event	Remove nail bed/finger tip
+CPT	11750	Significant Event	Removal of nail bed
+CPT	11740	Significant Event	Drain blood from under nail
+CPT	11732	Significant Event	Remove nail plate add-on
+CPT	11730	Significant Event	Removal of nail plate
+CPT	11721	Significant Event	Debride nail 6 or more
+CPT	11720	Significant Event	Debride nail 1-5
+CPT	11719	Significant Event	Trim nail(s) any number
+CPT	11646	Significant Event	Exc f/e/e/n/l mal+mrg >4 cm
+CPT	11644	Significant Event	Exc f/e/e/n/l mal+mrg 3.1-4
+CPT	11643	Significant Event	Exc f/e/e/n/l mal+mrg 2.1-3
+CPT	11642	Significant Event	Exc f/e/e/n/l mal+mrg 1.1-2
+CPT	11641	Significant Event	Exc f/e/e/n/l mal+mrg 0.6-1
+CPT	11640	Significant Event	Exc f/e/e/n/l mal+mrg 0.5cm<
+CPT	11626	Significant Event	Exc s/n/h/f/g mal+mrg >4 cm
+CPT	11624	Significant Event	Exc s/n/h/f/g mal+mrg 3.1-4
+CPT	11623	Significant Event	Exc s/n/h/f/g mal+mrg 2.1-3
+CPT	11622	Significant Event	Exc s/n/h/f/g mal+mrg 1.1-2
+CPT	11621	Significant Event	Exc s/n/h/f/g mal+mrg 0.6-1
+CPT	11620	Significant Event	Exc h-f-nk-sp mal+marg 0.5/<
+CPT	11606	Significant Event	Exc tr-ext mal+marg >4 cm
+CPT	11604	Significant Event	Exc tr-ext mal+marg 3.1-4 cm
+CPT	11603	Significant Event	Exc tr-ext mal+marg 2.1-3 cm
+CPT	11602	Significant Event	Exc tr-ext mal+marg 1.1-2 cm
+CPT	11601	Significant Event	Exc tr-ext mal+marg 0.6-1 cm
+CPT	11600	Significant Event	Exc tr-ext mal+marg 0.5 cm/<
+CPT	11471	Significant Event	Removal sweat gland lesion
+CPT	11470	Significant Event	Removal sweat gland lesion
+CPT	11463	Significant Event	Removal sweat gland lesion
+CPT	11462	Significant Event	Removal sweat gland lesion
+CPT	11451	Significant Event	Removal sweat gland lesion
+CPT	11450	Significant Event	Removal sweat gland lesion
+CPT	11446	Significant Event	Exc face-mm b9+marg >4 cm
+CPT	11444	Significant Event	Exc face-mm b9+marg 3.1-4 cm
+CPT	11443	Significant Event	Exc face-mm b9+marg 2.1-3 cm
+CPT	11442	Significant Event	Exc face-mm b9+marg 1.1-2 cm
+CPT	11441	Significant Event	Exc face-mm b9+marg 0.6-1 cm
+CPT	11440	Significant Event	Exc face-mm b9+marg 0.5 cm/<
+CPT	11426	Significant Event	Exc h-f-nk-sp b9+marg >4 cm
+CPT	11424	Significant Event	Exc h-f-nk-sp b9+marg 3.1-4
+CPT	11423	Significant Event	Exc h-f-nk-sp b9+marg 2.1-3
+CPT	11422	Significant Event	Exc h-f-nk-sp b9+marg 1.1-2
+CPT	11421	Significant Event	Exc h-f-nk-sp b9+marg 0.6-1
+CPT	11420	Significant Event	Exc h-f-nk-sp b9+marg 0.5/<
+CPT	11406	Significant Event	Exc tr-ext b9+marg >4.0 cm
+CPT	11404	Significant Event	Exc tr-ext b9+marg 3.1-4 cm
+CPT	11403	Significant Event	Exc tr-ext b9+marg 2.1-3cm/<
+CPT	11402	Significant Event	Exc tr-ext b9+marg 1.1-2 cm
+CPT	11401	Significant Event	Exc tr-ext b9+marg 0.6-1 cm
+CPT	11400	Significant Event	Exc tr-ext b9+marg 0.5 cm<
+CPT	11313	Significant Event	Shave skin lesion >2.0 cm
+CPT	11312	Significant Event	Shave skin lesion 1.1-2.0 cm
+CPT	11311	Significant Event	Shave skin lesion 0.6-1.0 cm
+CPT	11310	Significant Event	Shave skin lesion 0.5 cm/<
+CPT	11308	Significant Event	Shave skin lesion >2.0 cm
+CPT	11307	Significant Event	Shave skin lesion 1.1-2.0 cm
+CPT	11306	Significant Event	Shave skin lesion 0.6-1.0 cm
+CPT	11305	Significant Event	Shave skin lesion 0.5 cm/<
+CPT	11303	Significant Event	Shave skin lesion >2.0 cm
+CPT	11302	Significant Event	Shave skin lesion 1.1-2.0 cm
+CPT	11301	Significant Event	Shave skin lesion 0.6-1.0 cm
+CPT	11300	Significant Event	Shave skin lesion 0.5 cm/<
+CPT	11201	Significant Event	Remove skin tags add-on
+CPT	11200	Significant Event	Removal of skin tags <w/15
+CPT	11101	Significant Event	Biopsy skin add-on
+CPT	11100	Significant Event	Biopsy skin lesion
+CPT	11057	Significant Event	Trim skin lesions over 4
+CPT	11056	Significant Event	Trim skin lesions 2 to 4
+CPT	11055	Significant Event	Trim skin lesion
+CPT	11047	Significant Event	Deb bone add-on
+CPT	11046	Significant Event	Deb musc/fascia add-on
+CPT	11045	Significant Event	Deb subq tissue add-on
+CPT	11044	Significant Event	Deb bone 20 sq cm/<
+CPT	11043	Significant Event	Deb musc/fascia 20 sq cm/<
+CPT	11042	Significant Event	Deb subq tissue 20 sq cm/<
+CPT	11012	Significant Event	Deb skin bone at fx site
+CPT	11011	Significant Event	Debride skin musc at fx site
+CPT	11010	Significant Event	Debride skin at fx site
+CPT	11008	Significant Event	Remove mesh from abd wall
+CPT	11006	Significant Event	Debride genit/per/abdom wall
+CPT	11005	Significant Event	Debride abdom wall
+CPT	11004	Significant Event	Debride genitalia & perineum
+CPT	11001	Significant Event	Debride infected skin add-on
+CPT	11000	Significant Event	Debride infected skin
+CPT	10180	Significant Event	Complex drainage wound
+CPT	10160	Significant Event	Puncture drainage of lesion
+CPT	10140	Significant Event	Drainage of hematoma/fluid
+CPT	10121	Significant Event	Remove foreign body
+CPT	10120	Significant Event	Remove foreign body
+CPT	10081	Significant Event	Drainage of pilonidal cyst
+CPT	10080	Significant Event	Drainage of pilonidal cyst
+CPT	10061	Significant Event	Drainage of skin abscess
+CPT	10060	Significant Event	Drainage of skin abscess
+CPT	10040	Significant Event	Acne surgery
+CPT	10022	Significant Event	Fna w/image
+CPT	10021	Significant Event	Fna w/o image

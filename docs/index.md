@@ -1,66 +1,30 @@
-# Material for MkDocs
 
-## Beautiful documentation
+##Welcome to the Analytics Product User Guide
 
-Material is a theme for [MkDocs][], an excellent static site generator geared
-towards project documentation. It is built using Google's [material design][]
-guidelines, full responsive, optimized for touch and pointer devices as well
-as all sorts of screen sizes.
+*This website contains all documentation related to Arcadia Analytics. This documentation website reflects the latest general release. Certain reports, measures, or other functionality may not be configured or deployed for your environment. 
 
-![Material Screenshot](images/screen.png)
+**Feedback:** We welcome feedback. Please feel free to [e-mail feedback](mailto:product-feedback@arcadiasolutions.com). While this e-mail box is checked regularly by the product team, we may not respond to every message. 
 
-Material is very lightweight – it is built from scratch using Javascript and
-CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts
-and Analytics). Yet, it is highly customizable and degrades gracefully in older
-browsers.
+##How to use this site?
 
-## Quick start
+Documentation is arranged in 5 sections: 
 
-Install with `pip`:
+* **Analytics Concepts:**Covers certain usability and algorithms used within Arcadia analytics across the entire application. This includes functionality for the global filters (which apply to all reports) user security and other definitions used throughout the application. 
 
-``` sh
-pip install mkdocs-material
-```
+*  **Measures:** Lists the specification for measures as implemented in Arcadia Analytics. When implementing national measure standards, it can become necessary to modify the measure to use combined claims/clinical data sources or to support specific technical barriers in the measure definition.
 
-Add the following line to your `mkdocs.yml`:
+*  **Reports:** Contains specifications for each report in Arcadia Analytics. 
 
-``` yaml
-theme: 'material'
-```
+*  **Medical Expense Management:** Contains specifications a technical documentation for utilization and medical expense reports in the product. 
 
-## Features
+*  **Risk Adjustment:** Contains technical details for the various risk algorithms and associated functionality on various reports. 
 
-- Beautiful, readable and very user-friendly design based on Google's material
-  design guidelines, packed in a full responsive template with a well-defined
-  and [easily customizable color palette][], great typography, as well as a
-  beautiful search interface and footer.
 
-- Well-tested and optimized Javascript and CSS including a cross-browser
-  fixed/sticky header, a drawer that even works without Javascript using
-  the [checkbox hack][] with fallbacks, responsive tables that scroll when
-  the screen is too small and well-defined print styles.
+Within the documentation, specific technical details are `highlighted`. this formatting is used in the following cases: 
 
-- Extra configuration options like a [project logo][], links to the authors
-  [GitHub and Twitter accounts][], display of the amount of stars the
-  project has on GitHub and [Google Analytics integration][].
+* `t_immunization.completed_date` used when referring to specific database columns or field names. 
 
-- Easily [extendable and customizable][] due to a well-designed asset pipeline
-  built on-top of [Gulp][] with `npm` and `bower` and modular and abstracted
-  style definitions built with [SASS][].
+* `HEDIS Acute Inpatient` used when referring to a structured value set. Note that some value sets, as in this example, are sourced from national bodies while others are maintained by Arcadia.
 
-- Web application capability on iOS – when the page is saved to the homescreen,
-  it behaves and looks like a native application.
 
-See the [getting started guide](getting-started.md) for instructions how to get
-it up and running.
 
-[MkDocs]: http://www.mkdocs.org
-[material design]: https://www.google.com/design/spec/material-design
-[checkbox hack]: http://tutorialzine.com/2015/08/quick-tip-css-only-dropdowns-with-the-checkbox-hack/
-[project logo]: getting-started.md#adding-a-logo
-[easily customizable color palette]: getting-started.md#changing-the-color-palette
-[GitHub and Twitter accounts]: getting-started.md#adding-a-github-and-twitter-account
-[Google Analytics integration]: getting-started.md#google-analytics-integration
-[extendable and customizable]: customization.md
-[Gulp]: http://gulpjs.com
-[SASS]: http://sass-lang.com

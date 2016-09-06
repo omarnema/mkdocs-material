@@ -1419,8 +1419,6 @@ li {
         position: absolute;
         top: 0px;
         left: -5px; }
-      .no-js .repo a .count {
-        display: none; }
 
 /*
  * Copyright (c) 2016 Martin Donath <martin.donath@squidfunk.com>
@@ -2628,9 +2626,6 @@ pre span {
 .sechead .expandable-nav {
   cursor: pointer; }
 
-.collapse {
-  cursor: initial; }
-
 .collapse.section ul {
   display: none; }
 
@@ -2751,7 +2746,7 @@ pre span {
   border-left: none; }
 
 .drawer .scrollable .wrapper {
-  max-height: 100%; }
+  max-height: 80%; }
 
 .drawer .wrapper {
   position: fixed;
@@ -2814,7 +2809,8 @@ ul {
   z-index: 10; }
 
 .sechead-home {
-  color: gray; }
+  color: gray;
+  padding-bottom: 15px; }
 
 .sechead-home:hover {
   color: red; }
@@ -2849,7 +2845,7 @@ button .icon.toggle-button {
   padding-bottom: 0px; }
 
 .sechead {
-  padding-top: 9px;
+  padding-top: 5px;
   line-height: 1.7rem;
   /*    cursor: pointer;*/ }
 
@@ -2876,6 +2872,14 @@ button .icon.toggle-button {
   display: initial;
   height: auto;
   color: white; }
+
+.arcadia-status {
+  width: 80%;
+  margin-top: 15px;
+  margin-bottom: 15px; }
+
+.copyright {
+  text-align: center; }
 
 @media only screen and (min-width: 960px) {
   .backdrop {
@@ -2905,7 +2909,10 @@ button .icon.toggle-button {
     position: static;
     max-height: 413px; }
   .article {
-    margin-left: 300px; } }
+    margin-left: 300px; }
+  .drawer .scrollable .wrapper {
+    min-height: 80%;
+    max-height: 80%; } }
 
 @media only screen and (max-width: 959px) {
   .overlay {/*
@@ -2943,7 +2950,8 @@ button .icon.toggle-button {
     top: 40px; }
   .drawer .wrapper {
     position: relative;
-    float: right; } }
+    float: right;
+    max-height: 93%; } }
 
 @media only screen and (min-width: 720px) {
   .header {
@@ -3131,6 +3139,12 @@ button .icon.toggle-button {
        */ }
   .article table th {
     color: #1565C0; } }
+
+@media only screen and (min-width: 0px) {
+  .article .wrapper {
+    padding-top: 65px; }
+  .copyright {
+    margin-bottom: 15px; } }
 
 @media only screen and (min-width: 100px) {
   .bar.search .query {

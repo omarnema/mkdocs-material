@@ -30,6 +30,8 @@ copyright: Copyright (c) 2016 Arcadia Healthcare Solutions
 # Documentation and theme
 theme_dir: material
 
+
+
 # Options
 #extra:
 #  version: 4.11
@@ -48,6 +50,7 @@ markdown_extensions:
 #for pandoc parsing      
 #pages:
 #  - 'WIKI': 'index.md'
+#fontsize: 26pt;  
 
 # Page tree
 # pages:
