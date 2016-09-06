@@ -821,8 +821,6 @@ hr {
    */ }
   .bar a {
     display: block; }
-  .no-js .bar .button-search {
-    display: none; }
   .bar .path {
     /*
      * Correct icon alignment
@@ -1900,11 +1898,6 @@ pre span {
     /*
      * Table cell
      */ }
-    .no-js .article table {
-      display: inline-block;
-      max-width: 100%;
-      overflow: auto;
-      -webkit-overflow-scrolling: touch; }
     .article table th {
       min-width: 100px;
       padding: 12px 16px;
@@ -2629,6 +2622,15 @@ pre span {
 .collapse.sechead ul {
   display: none; }
 
+.collapse .expandable-nav {
+  cursor: pointer; }
+
+.sechead .expandable-nav {
+  cursor: pointer; }
+
+.collapse {
+  cursor: initial; }
+
 .collapse.section ul {
   display: none; }
 
@@ -2687,6 +2689,9 @@ pre span {
 .expandable-nav:hover .expand-icon {
   color: red; }
 
+.nav-item-title {
+  cursor: pointer; }
+
 .expand-icon {
   font-size: 18px;
   opacity: .55; }
@@ -2695,22 +2700,10 @@ pre span {
   padding-bottom: 5px;
   letter-spacing: .5px; }
 
-.drawer li {
-  cursor: pointer; }
-
-/*
-
-.nav-list-item:hover {
-    cursor: pointer;
-}
-*/
-.sechead span:hover {
-  cursor: pointer; }
-
 /*//CHANGE*/
 .sechead {
-  padding-top: 14px;
-  /*    cursor: pointer;*/ }
+  padding-top: 11px;
+  line-height: 2rem; }
 
 .drawer {
   width: 300px; }
@@ -2826,9 +2819,6 @@ ul {
 .sechead-home:hover {
   color: red; }
 
-.footer {
-  display: none; }
-
 .article {
   padding-bottom: 20px; }
 
@@ -2843,12 +2833,49 @@ button .icon.toggle-button {
 .button .icon.icon-search {
   padding: 10px; }
 
+.drawer .current .currentminpage .ullist {
+  padding-top: 6px; }
+
 .article h1 {
   padding-bottom: 20px; }
 
+.anchor {
+  padding-bottom: 7px; }
+
+.drawer li.section:last-child {
+  padding-bottom: 0px; }
+
+.drawer .ullist .anchor:last-child {
+  padding-bottom: 0px; }
+
 .sechead {
-  padding-top: 14px;
+  padding-top: 9px;
+  line-height: 1.7rem;
   /*    cursor: pointer;*/ }
+
+.list {
+  padding-bottom: 0;
+  padding-top: 9px; }
+
+.footer .pagination {
+  height: auto; }
+
+.footer .next, .footer .previous {
+  display: none; }
+
+.copyright-new {
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: .8px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 50px;
+  padding-right: 50px; }
+
+.pagination a {
+  display: initial;
+  height: auto;
+  color: white; }
 
 @media only screen and (min-width: 960px) {
   .backdrop {

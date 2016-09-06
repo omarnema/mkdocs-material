@@ -1,7 +1,23 @@
 <!-- Previous and next page -->
 {% if include_next_prev %}
   <nav class="pagination"  aria-label="Footer">
-
+          <aside class="copyright-new" role="note">
+            {% if copyright %}
+              {{ copyright }} &ndash;
+            {% endif %}
+                {% if 'createdate' in meta %}
+      <p>Page Created On {{ meta['createdate'][0] }}  and modified on {{ meta['modifydate'][0] }} by {{ meta['author'][0] }}</p>
+    {% endif %}
+            Documentation built with
+            <a href="http://www.mkdocs.org" target="_blank">MkDocs</a>
+            using the
+            <a href="http://squidfunk.github.io/mkdocs-material/"
+              target="_blank">
+              Material
+            </a>
+            theme.
+          </aside>
+      
     <!-- Previous page -->
     <div class="previous">
       {% if previous_page %}

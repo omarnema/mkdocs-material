@@ -238,12 +238,12 @@
     /*
      * The semi-cool solution, in case javascript is not available
      */
-    .no-js & {
-      display: inline-block;
-      max-width: 100%;
-      overflow: auto;
-      -webkit-overflow-scrolling: touch;
-    }
+//    .no-js & {
+//      display: inline-block;
+//      max-width: 100%;
+//      overflow: auto;
+//      -webkit-overflow-scrolling: touch;
+//    }
 
     /*
      * Table heading

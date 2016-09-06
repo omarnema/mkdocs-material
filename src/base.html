@@ -212,12 +212,15 @@
           {% endif %}
           <!-- Copyright and theme information -->
           <aside class="copyright" role="note">
+<!--
             {% if copyright %}
               {{ copyright }} &ndash;
             {% endif %}
-                {% if 'createdate' in meta %}
-      <p>Page Created On {{ meta['createdate'][0] }}  and modified on {{ meta['modifydate'][0] }} by {{ meta['author'][0] }}</p>
-    {% endif %}
+-->
+            {% if 'createdate' in meta %}
+                <p>Page Created On {{ meta['createdate'][0] }}  and modified on {{ meta['modifydate'][0] }} by {{ meta['author'][0] }}</p>
+            {% endif %}
+<!--
             Documentation built with
             <a href="http://www.mkdocs.org" target="_blank">MkDocs</a>
             using the
@@ -226,6 +229,7 @@
               Material
             </a>
             theme.
+-->
           </aside>
 
           <!-- Footer -->

@@ -24,8 +24,6 @@ site_description: Documentation for Arcadia Analytics
 site_author: 
 site_url: http://docs.arcadiaanalytics.com
 
-
-
 # Copyright
 copyright: Copyright (c) 2016 Arcadia Healthcare Solutions
 
@@ -33,10 +31,10 @@ copyright: Copyright (c) 2016 Arcadia Healthcare Solutions
 theme_dir: material
 
 # Options
-extra:
-  version: 4.11
-  logo: images/Mountain_64.png
- # author:
+#extra:
+#  version: 4.11
+#  logo: images/Mountain_64.png
+# # author:
    # github: arcadia
   #  twitter: ArcadiaHealthIT
 
@@ -46,6 +44,10 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: '#'
+      
+#for pandoc parsing      
+#pages:
+#  - 'WIKI': 'index.md'
 
 # Page tree
 # pages:

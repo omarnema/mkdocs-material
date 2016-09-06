@@ -122,6 +122,19 @@ $drawer-width: 300px;
     display: none;
 }
 
+.collapse .expandable-nav {
+    cursor: pointer;
+}
+.sechead .expandable-nav  {
+    cursor: pointer;
+}
+
+
+
+.collapse {
+    cursor: initial;
+}
+
 .collapse.section ul {
     display: none;
 }
@@ -188,6 +201,10 @@ $drawer-width: 300px;
     color: red;
 }
 
+.nav-item-title {
+    cursor: pointer;
+}
+
 
 .expand-icon {
     font-size: 18px;
@@ -201,27 +218,13 @@ $drawer-width: 300px;
 
 
 
-.drawer {
-    li {
-        cursor: pointer;
-    }
-}
 
-/*
 
-.nav-list-item:hover {
-    cursor: pointer;
-}
-*/
-
-.sechead span:hover {
-    cursor: pointer;
-}
 
 /*//CHANGE*/
 .sechead  {
-    padding-top: 14px;
-/*    cursor: pointer;*/
+    padding-top: 11px;
+	line-height: 2rem;    
 }
 
 .drawer {
@@ -334,9 +337,10 @@ $drawer-width: 300px;
     padding-left: 0px;
 }
 
-.drawer .toc li a {
-    
-}
+//.drawer .toc li a {
+//    cursor: default;
+//}
+
 
 
 .fa {
@@ -408,12 +412,6 @@ ul {
     color: red;
 }
 
-
-
-.footer {
-    display: none;
-}
-
 .article {
     padding-bottom: 20px;
 }
@@ -443,10 +441,22 @@ button .icon.toggle-button {
     padding: 10px;
 }
 
-
+.drawer .current .currentminpage .ullist {
+    padding-top: 6px;
+}
 .article h1 {
     padding-bottom: 20px;
 }
+.anchor {
+    padding-bottom: 7px;
+}
+
+.drawer li.section:last-child {
+    padding-bottom: 0px;
+}
+.drawer .ullist .anchor:last-child {
+    padding-bottom: 0px;
+} 
 
 //.button .icon.button-reset {
 //    margin: 0px;
@@ -455,7 +465,44 @@ button .icon.toggle-button {
 //}
 
 .sechead  {
-    padding-top: 14px;
+    padding-top: 9px;
+    line-height: 1.7rem;
 /*    cursor: pointer;*/
+}
+
+.list {
+    padding-bottom: 0;
+    padding-top: 9px;
+}
+
+//.footer {
+//    display: none;
+//}
+
+.footer {
+    .pagination {
+        height: auto;
+    }
+    .next, .previous {
+        display: none;
+    }
+}
+
+.copyright-new {
+    font-size: 11px;
+    text-align: center;
+    letter-spacing: .8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+//    white-space: nowrap;    
+    
+}
+
+.pagination a {
+    display: initial;
+    height: auto;
+    color: white;
 }
 
